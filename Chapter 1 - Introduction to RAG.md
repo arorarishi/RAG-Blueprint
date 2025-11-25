@@ -22,6 +22,7 @@ This chapter forms the foundation for everything that follows in the book.
 
 ---
 
+[Notebook](https://colab.research.google.com/drive/1FnJSAC1Mrj62DpAwk2_pj0oL-vrOAHXi?usp=sharing)
 # 🧩 **What is RAG?**
 
 **Retrieval-Augmented Generation (RAG)** is a technique where an LLM answers questions using information retrieved from an external knowledge source.
